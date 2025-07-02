@@ -1,6 +1,6 @@
 # Cat Breed Classification
 
-This project is a deep learning-based image classification system that identifies different cat breeds using Convolutional Neural Networks (CNN) and TensorFlow. The model is trained on a dataset containing 888 images from five popular cat breeds: Bengal, Domestic Shorthair, Maine Coon, Ragdoll, and Siamese.
+This project is a deep learning-based image classification system that identifies different cat breeds using Convolutional Neural Networks (CNN) and TensorFlow. The model is trained on a dataset containing 888 images from five popular cat breeds: American Shorthair, Bengal, British Shorthair Domestic Short Hair, Maine Coon, Persian, Ragdoll.
 
 ## 🔍 Project Overview
 
